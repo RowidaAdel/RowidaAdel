@@ -1,4 +1,4 @@
-<h1>Hi there 👋, I'm Rowida Adel</h1>
+<h1>Hi 👋, I'm Rowida Adel</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Front-End+Web+Developer;React;Lifelong+Learner" alt="Typing SVG" />
