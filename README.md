@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Rowida Adel</h1>
+<h1>Hi there 👋, I'm Rowida Adel</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Front-End+Web+Developer;React+Enthusiast;UI%2FUX+Design+Lover;Lifelong+Learner" alt="Typing SVG" />
@@ -48,7 +48,7 @@
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rowida-adel/)  
-📧 Email: **rowida.email@example.com** *(replace with real email)*  
+📧 Email: **rowidaadel036@gmail.com** 
 
 ---
 
